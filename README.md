@@ -51,7 +51,6 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 🚀 BOOM, you are now LIVE!!!
 
 ## Credits
-sony sangha
 
 ##### Original Idea
 
