@@ -1,6 +1,6 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Ishrat Jahan Pinky Portfolio Website
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![Ishrat Jahan Pinky Portfolio Website](resumeScrn.png?raw=true "Ishrat Jahan Pinky Portfolio Website ")
 
 ### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
 
@@ -51,6 +51,7 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 🚀 BOOM, you are now LIVE!!!
 
 ## Credits
+sony sangha
 
 ##### Original Idea
 
