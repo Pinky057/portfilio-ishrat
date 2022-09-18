@@ -112,6 +112,24 @@
   },
   "portfolio": {
     "projects": [
+       {
+        "title": "Color Gradient",
+        "category": "",
+        "image": "Borcelle.png",
+        "url": "https://www.youtube.com/watch?v=CHnAgefVhOE"
+      },
+       {
+        "title": "Python Turtle Circle",
+        "category": "",
+        "image": "Pythoncircle.png",
+        "url": "https://youtu.be/QaYts9sPmcYhttps://www.youtube.com/watch?v=aCkOKtTuZQg&t=2s"
+      },
+      {
+        "title": "Python Turtle",
+        "category": "",
+        "image": "PythonTurtle.png",
+        "url": "https://www.youtube.com/watch?v=YL_EWQM4PHg"
+      },
       {
         "title": "linkedin clone (React JS)",
         "category": "",
@@ -123,12 +141,6 @@
         "category": "",
         "image": "hulu-clone.png",
         "url": "https://github.com/Pinky057/Hulu-2.0-clone"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
       }
     ]
   },
